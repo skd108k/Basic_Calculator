@@ -1,0 +1,35 @@
+.text-center{
+  text-align: center;
+}
+.input{
+  background-color: #ffffff ;
+}
+.space{
+  padding: 10px;
+}
+.bottom{
+  margin-bottom: 20px;
+}
+.bg-red{
+  background: red;
+}
+.container{
+  background-color: #0e0344;
+  border: 3px solid #a1a1a1 ;
+  border-radius: 40px;
+  size-adjust: 10;
+}
+.mx-auto{
+  margin: auto;
+}
+
+.flex{
+  display:flex;  
+} 
+.flex-col{
+  flex-direction: column;
+}
+
+.items-center{
+  align-items: center;
+}
